@@ -1,0 +1,22 @@
+body {
+  background: #000;
+}
+body.otter {
+  background: red;
+}
+body.no-otter {
+  background: blue;
+}
+#count {
+  color: #fff;
+  font-size: 120px;
+  font-weight: bold;
+   left: 0;
+   line-height: 200px;
+   margin: auto;
+   margin-top: -100px;
+   position: absolute;
+   top: 50%;
+   text-align: center;
+   width: 100%;
+}
